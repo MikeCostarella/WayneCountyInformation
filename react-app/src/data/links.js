@@ -13,6 +13,8 @@ export const CATEGORIES = [
   "News & Media",
 ];
 
+export const AUDITOR_VENDOR = "Data Dynamics (DDTI)";
+
 export const LINKS = [
   // ---------- Government ----------
   { name: "Wayne County (Official Site)", category: "Government", subcategory: "County", url: "https://www.wayneohio.org/", description: "Official Wayne County government website — offices, departments, and services." },
